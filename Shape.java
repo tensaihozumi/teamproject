@@ -2,8 +2,8 @@
 /**
  * インターフェース Shape のための注釈をここに書きます.
  * 
- * @author (あなたの名前) 
- * @version (バージョン番号もしくは日付)
+ * @author (2018315058 ota oaki) 
+ * @version (2019/9/2)
  */
 
 interface Shape{
