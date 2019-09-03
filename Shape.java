@@ -6,7 +6,7 @@
  * @version (バージョン番号もしくは日付)
  */
 
-interface Shape{
+interface Shape {
     final double PI = 3.14; // 상수
     void draw(); // 도형을 그리는 추상 메소드
     double getArea(); // 도형의 면적을 리턴하는 추상 메소드
