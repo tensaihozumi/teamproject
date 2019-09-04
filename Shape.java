@@ -2,8 +2,13 @@
 /**
  * インターフェース Shape のための注釈をここに書きます.
  * 
+<<<<<<< HEAD
  * @author (2018315057/Keito Realwin) 
  * @version (バージョン番号もしくは日付)
+=======
+ * @author (2018315058 ota oaki) 
+ * @version (2019/9/2)
+>>>>>>> c6371c1967829d3e1bd270345899054cfc102616
  */
 
 interface Shape {
