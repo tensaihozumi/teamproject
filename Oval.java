@@ -2,8 +2,13 @@
 /**
  * クラス Oval の注釈をここに書きます.
  * 
+<<<<<<< HEAD
  * @author (2018315058  오타 오아키 2018315054 호즈미 요시아키)
  * @version (2019/9/4)
+=======
+ * @author (2018315057/matubara keito)
+ * @version (バージョン番号もしくは日付)
+>>>>>>> 72da7068011189fc690d31f04e0fe75ab948d72a
  */
 public class Oval implements Shape
 {
