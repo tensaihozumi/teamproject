@@ -2,7 +2,7 @@
 /**
  * クラス Oval の注釈をここに書きます.
  * 
- * @author (あなたの名前)
+ * @author (2018315057/matubara keito)
  * @version (バージョン番号もしくは日付)
  */
 public class Oval implements Shape
