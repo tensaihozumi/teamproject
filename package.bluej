@@ -1,4 +1,16 @@
 #BlueJ package file
+dependency1.from=main
+dependency1.to=Shape
+dependency1.type=UsesDependency
+dependency2.from=main
+dependency2.to=Circle
+dependency2.type=UsesDependency
+dependency3.from=main
+dependency3.to=Oval
+dependency3.type=UsesDependency
+dependency4.from=main
+dependency4.to=Rect
+dependency4.type=UsesDependency
 editor.fx.0.height=737
 editor.fx.0.width=814
 editor.fx.0.x=360
@@ -13,7 +25,7 @@ package.editor.x=-8
 package.editor.y=-8
 package.frame.height=1056
 package.frame.width=1936
-package.numDependencies=0
+package.numDependencies=4
 package.numTargets=5
 package.showExtends=true
 package.showUses=true
