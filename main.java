@@ -2,13 +2,13 @@
 /**
  * クラス main の注釈をここに書きます.
  * 
- * @author (あなたの名前)
- * @version (バージョン番号もしくは日付)
+ * @author (2018315057/마트바라 케이토,2018315058/오타 오아키,2018315054/호즈미 요시아키,)
+ * @version (2018/9/4)
  */
 public class main
 {
 
-    public static void main(String[] args){
+    public static void MyApp(String[] args){
         Shape[] list = new Shape[3];
         list[0] = new Circle(10);
         list[1] = new Oval(20, 30);
